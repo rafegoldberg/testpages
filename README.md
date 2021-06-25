@@ -1,14 +1,18 @@
 # Test GH Pages for preview.readme.io
 
 ### To Do
-- [ ] add a `preview` env variable
-- [ ] add a new dedicated entry script for our gh-pages root component
-- [ ] change output path to `gh-pages` for the GH Pages build (duh...)
-- [ ] Add a GH Pages-specific Webpack config
-  (Probs in a separate file for the sake of everyones ability to read thru our shit which is already confusing af)
-- [ ] Add new "Build Preview Site" action
-  (Run our git subtree shit)
-- [ ] Commit `PageNotFound` link tag changes
+
+- [x] Add a dedicated `ghpages.js` entry script for our GH Pages root component.
+- [x] Change output path to `public/dist/ghpages` for the GH Pages build (duh...)
+- [x] Add a GH Pages-specific Webpack config (Probs in a separate file for the sake of everyones ability to read thru it)
+- [x] Add a `ghpages` env variable and mock it to `local` in the main config + `useEnvInfo` hook
+- [x] Add a `build.ghpages` script to the react app
+- [ ] Add new "Build Preview Site" GH action, i.e. run the follow `git subtree` shit.
+- [ ] Copy `index.html` to ghpages dist (install and use CopyWebpackPlugin; not sure if we can?)
+  ```
+  { from: './index.html', to: './public/dist/preview/index.html' },
+  ```
+- [ ] ~Update how the local preview routes work with `PageNotFound`~
 
 ### Git Subtree Shit
 
