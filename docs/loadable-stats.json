@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "25646e7f3823c44f4384",
+  "hash": "1c1024d8b34c8bfb1b67",
   "publicPath": "/testpages/",
   "outputPath": "/Users/rafegoldberg/Repos/readme/packages/react/public/dist/web",
   "assetsByChunkName": {
@@ -123,7 +123,7 @@
     },
     {
       "name": "main.js",
-      "size": 33362790,
+      "size": 33364162,
       "chunks": [
         "main"
       ],
@@ -213,14 +213,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 10927331,
+      "size": 10927736,
       "names": [
         "main"
       ],
       "files": [
         "main.js"
       ],
-      "hash": "8c2d329331f5dc2e75f0",
+      "hash": "a5335b17f9f51479db4d",
       "siblings": [],
       "parents": [],
       "children": [
