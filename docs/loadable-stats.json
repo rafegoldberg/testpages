@@ -12,7 +12,7 @@
     "./src/routes/SuggestedEdits/style.ngz.scss (./node_modules/css-loader/dist/cjs.js??ref--5-1!/Users/rafegoldberg/Repos/readme/node_modules/postcss-loader/src??ref--5-2!/Users/rafegoldberg/Repos/readme/node_modules/sass-loader/dist/cjs.js??ref--5-3!./src/routes/SuggestedEdits/style.ngz.scss)\nModule Warning (from /Users/rafegoldberg/Repos/readme/node_modules/postcss-loader/src/index.js):\nWarning\n\n(1:57697) You should write display: flex by final spec instead of display: box\n @ ./src/routes/SuggestedEdits/style.ngz.scss 2:26-238\n @ ./src/routes/SuggestedEdits/index.ngz.jsx\n @ ./src/App/index.jsx\n @ ./src/dev.js"
   ],
   "version": "4.46.0",
-  "hash": "a36ebc6500ab71348f65",
+  "hash": "fe89e201685bed666878",
   "publicPath": "/testpages/",
   "outputPath": "/Users/rafegoldberg/Repos/readme/packages/react/public/dist/web",
   "assetsByChunkName": {
@@ -249,7 +249,7 @@
     },
     {
       "name": "main.js",
-      "size": 33443288,
+      "size": 33443795,
       "chunks": [
         "main"
       ],
@@ -949,14 +949,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 10954520,
+      "size": 10954673,
       "names": [
         "main"
       ],
       "files": [
         "main.js"
       ],
-      "hash": "f4f1f1c86382423f1c8f",
+      "hash": "9e7c02b12f76324310dc",
       "siblings": [],
       "parents": [],
       "children": [
