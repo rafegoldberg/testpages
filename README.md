@@ -1,6 +1,8 @@
 # Test GH Pages for preview.readme.io
 
 ### To Do
+- [ ] add a `preview` env variable
+- [ ] add a new dedicated entry script for our gh-pages root component
 - [ ] change output path to `gh-pages` for the GH Pages build (duh...)
 - [ ] Add a GH Pages-specific Webpack config
   (Probs in a separate file for the sake of everyones ability to read thru our shit which is already confusing af)

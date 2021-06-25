@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "49a1c3258e88c134361b",
+  "hash": "b3bc9bd66a4eefc10c10",
   "publicPath": "/testpages/",
   "outputPath": "/Users/rafegoldberg/Repos/readme/packages/react/public/dist/web",
   "assetsByChunkName": {
@@ -12,8 +12,118 @@
   },
   "assets": [
     {
+      "name": "03605b2467d43a9f4c63fc0b684ed3b8.eot",
+      "size": 60767,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../hub/public/fonts/fontawesome-webfont.eot"
+      },
+      "emitted": false
+    },
+    {
+      "name": "4237468f85b7bac3daed1fd18f5bdaa1.svg",
+      "size": 1295562,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../hub/public/fonts/ReadMe-Icons.svg"
+      },
+      "emitted": false
+    },
+    {
+      "name": "45f9f92a5bfbad4be12f704e8ab9c128.ttf",
+      "size": 122092,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../hub/public/fonts/fontawesome-webfont.ttf"
+      },
+      "emitted": false
+    },
+    {
+      "name": "97e8b89c605ea43312bd4b7e7e17cd4c.eot",
+      "size": 171612,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../hub/public/fonts/ReadMe-Icons.eot"
+      },
+      "emitted": false
+    },
+    {
+      "name": "c589f72df384e3ef078b259426c062e1.woff",
+      "size": 71508,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../hub/public/fonts/fontawesome-webfont.woff"
+      },
+      "emitted": false
+    },
+    {
+      "name": "d0ba16d89d53283e819bf3dc790b23ac.svg",
+      "size": 313398,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../hub/public/fonts/fontawesome-webfont.svg"
+      },
+      "emitted": false
+    },
+    {
+      "name": "dd9e6a1481f33ecf990411794ef2c45d.woff",
+      "size": 171508,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../hub/public/fonts/ReadMe-Icons.woff"
+      },
+      "emitted": false
+    },
+    {
+      "name": "e1bf8f26fc904531f22962aa158e35a0.woff2",
+      "size": 66028,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../hub/public/fonts/ReadMe-Icons.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "f95277b98e9092bfc492335e7f463a2f.ttf",
+      "size": 171428,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../hub/public/fonts/ReadMe-Icons.ttf"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fb685a7c7e4aae2d4d7117d94e573329.woff2",
+      "size": 56780,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../hub/public/fonts/fontawesome-webfont.woff2"
+      },
+      "emitted": false
+    },
+    {
       "name": "main.js",
-      "size": 32691372,
+      "size": 33363002,
       "chunks": [
         "main"
       ],
@@ -103,14 +213,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 10707608,
+      "size": 10927410,
       "names": [
         "main"
       ],
       "files": [
         "main.js"
       ],
-      "hash": "283832c497dab4e59f30",
+      "hash": "e1fd2a9f843c8ff1af33",
       "siblings": [],
       "parents": [],
       "children": [
