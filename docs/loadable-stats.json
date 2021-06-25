@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "1c1024d8b34c8bfb1b67",
+  "hash": "c64e5e6aae07a23b8d27",
   "publicPath": "/testpages/",
   "outputPath": "/Users/rafegoldberg/Repos/readme/packages/react/public/dist/web",
   "assetsByChunkName": {
@@ -123,7 +123,7 @@
     },
     {
       "name": "main.js",
-      "size": 33364162,
+      "size": 33364787,
       "chunks": [
         "main"
       ],
@@ -135,7 +135,7 @@
     },
     {
       "name": "routes-Reference.js",
-      "size": 3525989,
+      "size": 3526369,
       "chunks": [
         "routes-Reference"
       ],
@@ -213,14 +213,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 10927736,
+      "size": 10927933,
       "names": [
         "main"
       ],
       "files": [
         "main.js"
       ],
-      "hash": "a5335b17f9f51479db4d",
+      "hash": "8703a4ab59ff6dac6b52",
       "siblings": [],
       "parents": [],
       "children": [
@@ -237,14 +237,14 @@
       "rendered": true,
       "initial": false,
       "entry": false,
-      "size": 1013087,
+      "size": 1013199,
       "names": [
         "routes-Reference"
       ],
       "files": [
         "routes-Reference.js"
       ],
-      "hash": "16316ba104db84d47d13",
+      "hash": "8980f53c182b61184968",
       "siblings": [
         "vendors~routes-Reference"
       ],
